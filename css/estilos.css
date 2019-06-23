@@ -8,3 +8,15 @@ body {
     text-align: justify;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.titulo1 {
+    color: violet;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titulo2 {
+    color: brown;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
