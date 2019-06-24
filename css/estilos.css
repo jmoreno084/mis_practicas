@@ -4,6 +4,18 @@ body {
     color: black;
 }
 
+.titulo1_ {
+    color: violet;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titulo2_ {
+    color: brown;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .titulo3 {
     text-align: center;
     color: orange;
@@ -18,17 +30,5 @@ body {
 
 .parrafo {
     text-align: justify;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.titulo1_ {
-    color: violet;
-    text-align: left;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-}
-
-.titulo2_ {
-    color: brown;
-    text-align: left;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
