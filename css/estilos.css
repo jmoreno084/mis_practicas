@@ -1,7 +1,31 @@
 body {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
-    color: #774;
+    color: black;
+}
+
+.titulo1 {
+    text-align: center;
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titulo2 {
+    text-align: center;
+    color: blue;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titulo3 {
+    text-align: center;
+    color: orange;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.titulo4 {
+    text-align: center;
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .parrafo {
